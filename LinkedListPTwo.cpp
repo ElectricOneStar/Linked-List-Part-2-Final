@@ -3,6 +3,7 @@ Linked List Part 2 by Andrew Thomas Mr.Galbraith P3 C++ Class 1/15/19. I used Al
  */
 #include <iostream> // initializes libraries
 #include <cstring>
+#include <cstdlib>
 //#include <vector>
 #include <cmath>
 #include "Node.h"
