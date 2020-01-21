@@ -2,6 +2,7 @@
 #define STUDENT_H
 #include <iostream> // header file for the student class
 //#include "Node.h"
+#include <cstdlib>
 #include <cstring> // libraries
 using namespace std;
 
