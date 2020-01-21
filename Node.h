@@ -5,6 +5,7 @@
 #include "Student.h"
 #include <iostream>
 #include <cstring>
+#include <cstdlib>
 using namespace std;
 
 class Node {
